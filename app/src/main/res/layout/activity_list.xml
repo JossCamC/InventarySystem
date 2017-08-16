@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="10">
+
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="65dp"
+        android:src="@drawable/compustok"
+        android:layout_weight="3"
+        android:id="@+id/dolor" />
+
+
+    <TextView
+        android:text="Inicio Rapido"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:id="@+id/txtdolor"
+        android:gravity="center_vertical"
+        android:layout_weight="7"
+        android:textSize="14sp"
+        android:fontFamily="serif-monospace"
+        android:textStyle="normal|bold|italic" />
+
+    <ImageView
+        android:layout_width="29dp"
+        android:layout_height="40dp"
+        android:id="@+id/ira"
+        android:background="@drawable/ic_menu_send2"
+        android:scaleType="fitCenter" />
+
+</LinearLayout>

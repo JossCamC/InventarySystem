@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InventarySystem</string>
+    <string name="title_activity_menus">Menú</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="encabezado">Seleccione una actividad</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ejercicio_adomen">Ejercicio cadera</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_ejercicios_cuello">Ejercicios cuello</string>
+    <string name="title_activity_ejercicios_muneca">Ejercicios muñeca</string>
+    <string name="title_activity_ejercicios_mano">Ejercicios mano</string>
+    <string name="title_activity_ejercicios_rodilla">Ejercicios rodilla</string>
+    <string name="title_activity_ejercicio_pies">Ejercicio pies</string>
+    <string name="title_activity_ejercicios_tobillo">Ejercicios tobillos</string>
+    <string name="action_add_favourite">Agregar a ejercicios</string>
+    <string name="action_play_next">Comentar</string>
+    <string name="backdrop_title">LOVE MUSICS</string>
+    <string name="backdrop_subtitle">This season top 20 music</string>
+    <string name="title_activity_tips">Consejos de salud</string>
+    <string name="title_activity_agregar">Agregar ejercicios</string>
+    <string name="title_activity_primeros_auxilios">Primeros auxilios</string>
+    <string name="title_activity_consejos_ayudas">Consejos y Ayudas</string>
+    <string name="title_activity_tab_tipspriaux">tab_tipspriaux</string>
+
+</resources>
