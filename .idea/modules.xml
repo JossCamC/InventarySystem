@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InventarySystems.iml" filepath="$PROJECT_DIR$/InventarySystems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InventarySystemsMolvil.iml" filepath="$PROJECT_DIR$/InventarySystemsMolvil.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

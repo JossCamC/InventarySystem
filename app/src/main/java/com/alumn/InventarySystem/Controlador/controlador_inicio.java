@@ -26,5 +26,6 @@ public class controlador_inicio extends AppCompatActivity {
         };
         Timer timer = new Timer();
         timer.schedule(task,duracion);
+        //hhh
     }
 }
